@@ -1,0 +1,44 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #060606;
+    color: #fff;
+    text-align: center;
+}
+
+
+#pesosclp{
+    width: 80%;
+    padding: 10px;
+    margin: 20px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #696969;
+    color: #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+input, select, button {
+    width: 85%;
+    padding: 10px;
+    margin: 20px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+chartContainer {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
